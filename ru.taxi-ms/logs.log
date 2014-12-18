@@ -1,0 +1,10 @@
+2014-06-10 09:13:52,756 ERROR main [ru.taxims.dao.dictionary.Dictionary] - org.postgresql.util.PSQLException: ERROR: column "level" does not exist
+  Позиция: 30
+2014-06-10 09:19:47,506 ERROR main [ru.taxims.dao.dictionary.Dictionary] - org.postgresql.util.PSQLException: ERROR: column "level" does not exist
+  Позиция: 30
+2014-06-10 09:20:45,178 ERROR main [ru.taxims.dao.dictionary.Dictionary] - org.postgresql.util.PSQLException: ERROR: column "level" does not exist
+  Позиция: 30
+2014-06-10 09:24:42,959 ERROR main [ru.taxims.dao.dictionary.Dictionary] - org.postgresql.util.PSQLException: ERROR: column "date_create" does not exist
+  Позиция: 30
+2014-06-10 09:28:18,537 ERROR main [ru.taxims.dao.dictionary.Dictionary] - org.postgresql.util.PSQLException: ERROR: column "date_create" does not exist
+  Позиция: 30

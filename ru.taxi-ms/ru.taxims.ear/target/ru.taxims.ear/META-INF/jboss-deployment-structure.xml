@@ -1,0 +1,24 @@
+<jboss-deployment-structure>
+	<deployment>
+		<dependencies>
+			<module name="org.dom4j" export="true" />
+			<module name="org.apache.commons.collections" export="true" />
+            <module name="org.apache.log4j"/>
+		</dependencies>
+        <!--<exclusions>-->
+            <!--<module name="org.apache.log4j" />-->
+        <!--</exclusions>-->
+	</deployment>
+    <!-- for sub deployment, e.g. war. sub-deployment is required when ear contains one or more wars -->
+    <!--<sub-deployment name="AAA.war">-->
+        <!--<exclusions>-->
+            <!--<module name="org.apache.log4j" />-->
+        <!--</exclusions>-->
+    <!--</sub-deployment>-->
+    <!--<sub-deployment name="BBB.war">-->
+        <!--<exclusions>-->
+            <!--<module name="org.apache.log4j" />-->
+        <!--</exclusions>-->
+    <!--</sub-deployment>-->
+</jboss-deployment-structure>
+

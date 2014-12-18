@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.dao/src/main/java/ru/taxims/dao/main/AbstractDaoBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.domain/src/main/java/ru/taxims/domain/datamodels/AbstractEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.domain/src/main/java/ru/taxims/domain/interfaces/dao/Dao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.gis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.price" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ru.taxims.rest" charset="UTF-8" />
+  </component>
+</project>
+

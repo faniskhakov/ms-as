@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <display-name>ru.taxims.ear</display-name>
+  <module>
+    <web>
+      <web-uri>ru.taxims.rest.war</web-uri>
+      <context-root>ru.taxims.nicki-minaj</context-root>
+    </web>
+  </module>
+  <module>
+    <web>
+      <web-uri>ru.taxims.controller.war</web-uri>
+      <context-root>ru.taxims.lady-gaga</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>ru.taxims.domain.jar</ejb>
+  </module>
+  <module>
+    <ejb>ru.taxims.dao.jar</ejb>
+  </module>
+  <module>
+    <ejb>ru.taxims.core.jar</ejb>
+  </module>
+  <module>
+    <ejb>ru.taxims.gis.jar</ejb>
+  </module>
+  <module>
+    <ejb>ru.taxims.price.jar</ejb>
+  </module>
+  <module>
+    <ejb>ru.taxims.distribution.jar</ejb>
+  </module>
+  <library-directory>lib/</library-directory>
+</application>
